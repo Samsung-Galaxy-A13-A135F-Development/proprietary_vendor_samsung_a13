@@ -1,0 +1,9 @@
+//
+// Automatically generated file. DO NOT MODIFY
+//
+
+soong_namespace {
+    imports: [
+        "vendor/samsung/a13-common",
+    ],
+}
